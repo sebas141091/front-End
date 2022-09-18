@@ -1,0 +1,50 @@
+*{
+	margin-left: 1mm;
+}
+
+.row .col  {
+    color: blue;
+    background-color: gray;
+    
+}
+.row .col-sm-1 {
+    color: red;
+    background-color: aqua;
+    
+}
+
+.tabla {
+	width: 100mm;
+	height: 50mm;
+	
+}
+
+
+
+table th:nth-child(2) {
+  background-color: red;
+}
+
+table colgroup col {
+  background-color: yellow;
+}
+
+
+table colgroup col:nth-child(2) {
+  background-color: red;
+}
+
+.figure{
+
+	background-color: grey;
+}
+
+.figure-caption{
+	color: white;
+}
+
+.form-control{
+	width: 70mm;
+	height: 7mm;
+	
+}

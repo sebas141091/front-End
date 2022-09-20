@@ -1,50 +1,43 @@
-*{
-	margin-left: 1mm;
+#imagenLogo{
+	position: relative;
+	top: 0px;
+	width: 350px;
 }
 
-.row .col  {
-    color: blue;
-    background-color: gray;
-    
-}
-.row .col-sm-1 {
-    color: red;
-    background-color: aqua;
-    
+.ParteSuperior{
+	background-color: #4346c4;
 }
 
-.tabla {
-	width: 100mm;
-	height: 50mm;
-	
+.menu{
+	height: 80px;
+	position: relative;
+	margin-bottom: 20px;
+}
+
+#logoFace1{
+	position: absolute;
+  right: 5px;
+	top: 0px;
+	width: 40px;
+  border-radius: 15%;
+}
+
+#logoInsta{
+  position: absolute;
+  right: 50px;
+  border-radius: 15%;
+	top: 0px;
+	width: 40px;
+}
+#boton{
+  position: absolute;
+  right: 100px;
+  border-radius: 15%;
+	top: 5px;
+  height: 30px;
+	width: 70px;
+  color: rgb(240, 240, 240);
+  background-color: cadetblue;
 }
 
 
-
-table th:nth-child(2) {
-  background-color: red;
-}
-
-table colgroup col {
-  background-color: yellow;
-}
-
-
-table colgroup col:nth-child(2) {
-  background-color: red;
-}
-
-.figure{
-
-	background-color: grey;
-}
-
-.figure-caption{
-	color: white;
-}
-
-.form-control{
-	width: 70mm;
-	height: 7mm;
-	
-}

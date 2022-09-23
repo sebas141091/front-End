@@ -1,0 +1,22 @@
+[
+    {
+    "nombre" : "sebas"
+    ,"apellido": "ramos" 
+    ,"hobies":["correr","comer","saltar"]
+    ,"asiento":{
+        "numero":1
+        ,"ubicacion":"b"
+    }
+}
+,
+{ 
+    "nombre" : "mama"
+    ,"apellido": "tina" 
+    ,"hobies":["bailar","trabajar","saltar"]
+    ,"asiento":{
+        "numero":2
+        ,"ubicacion":"a"
+    }
+    
+}
+]

@@ -11,7 +11,7 @@
 .menu{
 	height: 80px;
 	position: relative;
-	margin-bottom: 20px;
+	margin-bottom: 0px;
 }
 
 #logoFace1{
@@ -38,6 +38,38 @@
 	width: 70px;
   color: rgb(240, 240, 240);
   background-color: cadetblue;
+}
+
+#fotosebas{
+
+  width: 130px;
+  height: 120px;
+  border-radius: 100%;
+  margin-left: 100px;
+  margin-top: 0px;
+  border: 2px solid black;
+}
+#tabla{
+  margin-top: 0px;
+  margin-left: 0px;
+}
+.cajapadre{
+  display: flex;
+  justify-content: center;
+}
+#banner{
+position: relative;
+  width: 500px;
+  height: 250px;
+  margin-top: 0px;
+  margin-left: 70px;
+  margin-right: 70px;
+
+}
+.articuloPadre #ejemplo{
+  position: absolute;
+  margin-top: 0px;
+  margin-left: 0px;
 }
 
 
